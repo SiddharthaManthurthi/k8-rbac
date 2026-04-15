@@ -19,7 +19,7 @@ data:
     #   - roboshop-trainee
     #   userarn: arn:aws:iam::160885265516:user/rahim
     #   username: rahim
-     - groups:
+    - groups:
       - roboshop-admin
       userarn: arn:aws:iam::968062515286:user/ramesh
       username: ramesh
